@@ -4,3 +4,28 @@ This project was created using data from nearly 170,000 football players in the 
 
 ![Leagues GIF](https://github.com/KerScof/Football_Player_Analytics-Visualization/raw/main/gif/league_table.gif)
 
+
+## Clubs
+
+![Clubs GIF](https://github.com/KerScof/Football_Player_Analytics-Visualization/raw/main/gif/clubs_table.gif)
+
+
+## Player Features-1
+
+![Player Features-1 GIF](https://github.com/KerScof/Football_Player_Analytics-Visualization/raw/main/gif/features_1.gif)
+
+
+## Player Features-2
+
+![Player Features-2 GIF](https://github.com/KerScof/Football_Player_Analytics-Visualization/raw/main/gif/features_2.gif)
+
+
+## Player Filter-Page
+
+![Player Filter-Page GIF 1](https://github.com/KerScof/Football_Player_Analytics-Visualization/raw/main/gif/playerfilt.gif)
+
+![Player Filter-Page GIF 2](https://github.com/KerScof/Football_Player_Analytics-Visualization/raw/main/gif/playerfilt-2.gif)
+
+## Divison-Club
+
+![Divison-Club GIF](https://github.com/KerScof/Football_Player_Analytics-Visualization/raw/main/gif/divison-club.gif)
