@@ -1,0 +1,1367 @@
+﻿leauge_id,league_name,nation_id,team_count
+1,Unknown,999,444
+2,1. Deild,72,3
+3,1. Divisioun South,121,1
+4,1. Klasse A,13,3
+5,1. Klasse B,13,2
+6,1. Klasse C,13,1
+7,1. Klasse Mitte A,13,1
+8,1. Klasse Nord,13,1
+9,1. Klasse Nord B,13,1
+10,1. Klasse Nordwest Mitte,13,2
+11,1. Klasse Ost,13,1
+12,1. Klasse Ost A,13,1
+13,1. Klasse Ost B,13,1
+14,1. Klasse Süd,13,3
+15,1. Klasse West,13,2
+16,1. Landesklasse,13,2
+17,1e Provenciale Antwerpen,18,76
+18,1e Provenciale Brabant,18,18
+19,1e Provenciale Henegouwen,18,13
+20,1e Provenciale Limburg,18,37
+21,1e Provenciale Oost-Vlaanderen,18,49
+22,1e Provenciale West-Vlaanderen,18,48
+23,1e Provinciale Brabant,18,43
+24,1e Provinciale Liège,18,20
+25,1e Provinciale Luxembourg,18,10
+26,1e Provinciale Namur,18,10
+27,2. Bundesliga,77,18
+28,2. deild karla,99,12
+29,2. Division,56,12
+30,2. Klasse Donau,13,1
+31,2. Klasse Mitte,13,1
+32,2. Klasse Ost,13,1
+33,2. Klasse Traisental/Alpenvorland,13,2
+34,2. Klasse Triestingtal,13,1
+35,2. Klasse West,13,1
+36,2. Landesklasse,13,1
+37,2. Landesliga Nord,13,1
+38,2. Landesliga Süd,13,2
+39,2. Landesliga Wien,13,6
+40,2. Slovenska Nogometna Liga,196,16
+41,2e Amateurklasse A,18,16
+42,2e Amateurklasse B,18,16
+43,2e Amateurklasse C,18,16
+44,3. deild karla,99,12
+45,3. Division,56,12
+46,3. Landesklasse,13,1
+47,3. Liga,77,20
+48,3. Slovenska Nogometna Liga Vzhod,196,14
+49,3. Slovenska Nogometna Liga Zahod,196,14
+50,3e Amateurklasse VFV A,18,16
+51,3e Amateurklasse VFV B,18,15
+52,3F Superliga,56,12
+53,4. deild,99,32
+54,4. divisjon Avdeling 1,154,10
+55,4. divisjon Avdeling 10,154,9
+56,4. divisjon Avdeling 11,154,8
+57,4. divisjon Avdeling 12,154,8
+58,4. divisjon Avdeling 13,154,2
+59,4. divisjon Avdeling 14,154,4
+60,4. divisjon Avdeling 15,154,8
+61,4. divisjon Avdeling 16,154,8
+62,4. divisjon Avdeling 17,154,9
+63,4. divisjon Avdeling 18,154,4
+64,4. divisjon Avdeling 19,154,7
+65,4. divisjon Avdeling 2,154,7
+66,4. divisjon Avdeling 20,154,3
+67,4. divisjon Avdeling 21,154,8
+68,4. divisjon Avdeling 22,154,5
+69,4. divisjon Avdeling 3,154,14
+70,4. divisjon Avdeling 4,154,10
+71,4. divisjon Avdeling 5,154,7
+72,4. divisjon Avdeling 6,154,7
+73,4. divisjon Avdeling 7,154,6
+74,4. divisjon Avdeling 8,154,6
+75,4. divisjon Avdeling 9,154,8
+76,4. Landesklasse,13,1
+77,5. Landesklasse Oberland,13,1
+78,A' EPS Achaías,82,15
+79,A' EPS Aitoloakarnanías,82,7
+80,A' EPS Anatolikís Attikís,82,19
+81,A' EPS Argolídas,82,12
+82,A' EPS Arkadías,82,3
+83,A' EPS Ártas,82,5
+84,A' EPS Athinón,82,37
+85,A' EPS Chalkidikís,82,2
+86,A' EPS Chaníon,82,10
+87,A' EPS Chíou,82,2
+88,A' EPS Dodekanísou,82,16
+89,A' EPS Drámas,82,9
+90,A' EPS Dytikís Attikís,82,11
+91,A' EPS Évoias,82,10
+92,A' EPS Évrou,82,3
+93,A' EPS Evrytanías,82,2
+94,A' EPS Flórinas,82,1
+95,A' EPS Fokídas,82,1
+96,A' EPS Fthiótidas,82,8
+97,A' EPS Imathías,82,8
+98,A' EPS Ipeírou,82,7
+99,A' EPS Kardítsas,82,6
+100,A' EPS Kastoriás,82,4
+101,A' EPS Kaválas,82,9
+102,A' EPS Kefallinías & Ithákis,82,1
+103,A' EPS Kérkyras,82,3
+104,A' EPS Kilkís,82,3
+105,A' EPS Korinthías,82,15
+106,A' EPS Kozánis,82,7
+107,A' EPS Kykládon,82,9
+108,A' EPS Lakonías,82,3
+109,A' EPS Lárisas,82,13
+110,A' EPS Lasithíou,82,2
+111,A' EPS Lésvou,82,6
+112,A' EPS Makedonías,82,14
+113,A' EPS Messinías,82,12
+114,A' EPS Peiraiá,82,21
+115,A' EPS Péllas,82,1
+116,A' EPS Pierías,82,10
+117,A' EPS Prévezas & Lefkádas,82,10
+118,A' EPS Rethýmnou,82,11
+119,A' EPS Sámou,82,1
+120,A' EPS Thesprotías,82,3
+121,A' EPS Thessalías,82,10
+122,A' EPS Trikálon,82,7
+123,A' EPS Voiotías,82,8
+124,A' EPS Xánthis,82,5
+125,A' EPS Zakýnthou,82,4
+126,A. Le Coq Premium Liiga,66,5
+127,A1 Division,35,1
+128,A1 EPS Chalkidikís,82,10
+129,A1 EPS Ileías,82,10
+130,A1 EPS Irakleíou,82,12
+131,A1 EPS Kérkyras,82,5
+132,A1 EPS Kilkís,82,8
+133,A1 EPS Lárisas,82,3
+134,A1 EPS Makedonías,82,13
+135,A1 EPS Messinías,82,4
+136,A1 EPS Péllas,82,6
+137,A1 EPS Serrón,82,10
+138,A1 EPS Thrákis,82,3
+139,A2 EPS Irakleíou,82,7
+140,A2 EPS Serrón,82,5
+141,ACT State League Division 1,12,1
+142,ADMIRAL 2. Liga,13,16
+143,Admiral Bundesliga,13,12
+144,ADNOC Pro League,214,14
+145,AIA Singapore Premier League,178,8
+146,AIFF Lower Leagues,95,34
+147,A-Junioren-Regionalliga Nord,77,2
+148,Alberta Major Soccer League,36,3
+149,Allsvenskan,197,16
+150,Amators'koho Futbolu Ukraini - Hrupa 1,216,1
+151,Amators'koho Futbolu Ukraini - Hrupa 2,216,4
+152,Amators'koho Futbolu Ukraini - Hrupa 3,216,1
+153,ANFA Lower Leagues,148,1
+154,Angolan Provincial Football Stage,6,1
+155,Ardal NE,226,1
+156,Ardal NW,226,2
+157,Ardal SW,226,2
+158,ASF Lower Leagues,192,201
+159,Asociación Nacional de Fútbol Amateur,40,1
+160,Azadegan League,97,11
+161,Azadegan League 2 - Group A,97,3
+162,Azadegan League 2 - Group B,97,4
+163,Azərbaycan Premyer Liqası,14,8
+164,B' EPS Achaías,82,1
+165,B' EPS Aitoloakarnanías,82,2
+166,B' EPS Anatolikís Attikís,82,7
+167,B' EPS Athinón,82,22
+168,B' EPS Chíou,82,1
+169,B' EPS Dodekanísou,82,3
+170,B' EPS Drámas,82,1
+171,B' EPS Dytikís Attikís,82,2
+172,B' EPS Évoias,82,6
+173,B' EPS Évrou,82,1
+174,B' EPS Fthiótidas,82,1
+175,B' EPS Imathías,82,6
+176,B' EPS Kardítsas,82,2
+177,B' EPS Kaválas,82,3
+178,B' EPS Korinthías,82,2
+179,B' EPS Lésvou,82,1
+180,B' EPS Peiraiá,82,4
+181,B' EPS Pierías,82,1
+182,B' EPS Rethýmnou,82,2
+183,B' EPS Voiotías,82,4
+184,Bahrain 1st Division,22,6
+185,Ballymena & Provincial Intermediate League Premier Division,151,13
+186,Bank of Valletta Challenge League,134,2
+187,Bank of Valletta Premier League,134,11
+188,Bank Rakyat Indonesia Liga 1,94,18
+189,Bayernliga Nord,77,9
+190,Bayernliga Süd,77,14
+191,Belarusbank Vyšejšaja Liha,26,15
+192,Beloften Eredivise,147,1
+193,BeMobile Premier League,30,3
+194,BetKing Premier League,106,2
+195,Betrideildin,72,9
+196,Bezirksliga Nord,13,1
+197,Bezirksliga Ost,13,1
+198,Bezirksliga Süd,13,2
+199,Bezirksliga West,13,1
+200,BFA Division Two,32,1
+201,BFA First Division,20,5
+202,BFA Senior League,15,2
+203,BFF Lower Leagues,26,24
+204,BFS Lower Leagues,34,3
+205,BFS Regionalna grupa B Blagoevgrad Struma 1,34,1
+206,BFS Regionalna grupa Blagoevgrad,34,1
+207,BFS Regionalna grupa Burgas,34,2
+208,BFS Regionalna grupa Gabrovo,34,1
+209,BFS Regionalna grupa Haskovo,34,1
+210,BFS Regionalna grupa Kardzhali-Smolyan,34,1
+211,BFS Regionalna grupa Kyustendil-Osogovo,34,1
+212,BFS Regionalna grupa Montana,34,2
+213,BFS Regionalna grupa Pazardzhik,34,4
+214,BFS Regionalna grupa Plovdiv,34,5
+215,BFS Regionalna grupa Razgrad,34,1
+216,BFS Regionalna grupa Ruse Iztok,34,1
+217,BFS Regionalna grupa Shumen Yug,34,1
+218,BFS Regionalna grupa Sliven,34,1
+219,BFS Regionalna grupa Sofiya Yug,34,1
+220,BFS Regionalna grupa Stara Zagora,34,1
+221,BFS Regionalna grupa Veliko Tarnovo,34,2
+222,BFS Regionalna grupa Vratsa,34,2
+223,BGL Ligue,121,16
+224,BKT Superliga,112,6
+225,BOC Life Hong Kong Premier League,91,8
+226,Bölgesel Amatör Lig 8. Grup,212,1
+227,Botola Pro 1 Inwi,125,14
+228,Botola Pro 2 Inwi,125,4
+229,Brack.ch Challenge League,192,10
+230,Brisbane Capital League 1,12,1
+231,Brisbane Capital League 2,12,1
+232,Bundesliga,77,18
+233,Burgenländischer II. Liga Nord,13,1
+234,Burgenländischer II. Liga Süd,13,1
+235,Burkinabé Première Division,21,4
+236,BVIFA National Football League,222,1
+237,BVZ Burgenlandliga,13,9
+238,Campeonato AFP PlanVital,40,17
+239,Campeonato Ascenso Betsson,40,16
+240,Campeonato Brasileiro Assaí Série A,31,20
+241,Campeonato Brasileiro Série B,31,20
+242,Campeonato Brasileiro Série C,31,20
+243,Campeonato Brasileiro Série D,31,58
+244,Campeonato D`Elite Pro-Nacional Série 1 da AF Porto,165,17
+245,Campeonato D`Elite Pro-Nacional Série 2 da AF Porto,165,16
+246,Campeonato da 3ª Divisão do Futebol,123,1
+247,Campeonato de Futebol dos Açores - AF Ponta Delgada,165,5
+248,Campeonato Moçambicano de Futebol,137,3
+249,Campeonato Nacional - São Tomé,190,1
+250,Campeonato Nacional de Fútbol de Cuba,52,1
+251,Campeonato Nacional de Juniores A - Segunda Divisão,165,1
+252,Campeonato Pullman Bus,40,13
+253,Campeonato Safina - AF Aveiro,165,17
+254,Campeonato Uruguayo Copa Coca-Cola,217,16
+255,Campionato Sammarinese,184,1
+256,Campionatul Naţional U19 Grup 1,170,2
+257,Campionatul Naţional U19 Grup 2,170,3
+258,Campionatul Naţional U19 Grup 3,170,2
+259,Campionatul Naţional U19 Grup 4,170,3
+260,Campionatul Naţional U19 Grup 5,170,3
+261,Campionatul Naţional U19 Grup 7,170,2
+262,Campionatul Naţional U19 Grup 8,170,2
+263,Canadian Premier League,36,8
+264,Canadian Soccer League,36,3
+265,Canterbury Championship League,155,6
+266,Capital Division One,155,4
+267,Capital Division Two,155,1
+268,Capital Premier League,155,2
+269,Carnbane Football League Division One,151,1
+270,Carnbane Football League Premier Division,151,1
+271,Casa Liga I,170,16
+272,Castel Ethiopia Premier League,67,3
+273,Castle Lager Premier Soccer League,229,3
+274,Central Coast Premier League,12,2
+275,Central Federation Premier League,155,4
+276,Central Taxis East Of Scotland Premier Division,175,18
+277,Cerutti Il Caffè Promotion League,192,15
+278,Četvrta HNL - Sjever A,50,1
+279,Četvrta HNL - Sjever B,50,3
+280,Četvrta HNL - Središnji,50,1
+281,Četvrta HNL - Zapad,50,2
+282,CFA Bing League,41,5
+283,CFA Yi League - Běi,41,9
+284,CFA Yi League - Nán,41,8
+285,Championnat de la Ligue Professionnelle 1,211,9
+286,Championnat de La Réunion de football,169,2
+287,Championnat Divisions Inférieures,71,53
+288,Championnat National,71,18
+289,Championnat National 2 Groupe A,71,16
+290,Championnat National 2 Groupe B,71,16
+291,Championnat National 2 Groupe C,71,16
+292,Championnat National 2 Groupe D,71,16
+293,Championnat National 3 Groupe Auvergne-Rhône-Alpes,71,13
+294,Championnat National 3 Groupe Bourgogne-Franche-Comté,71,14
+295,Championnat National 3 Groupe Bretagne,71,14
+296,Championnat National 3 Groupe Centre-Val de Loire,71,14
+297,Championnat National 3 Groupe Grand Est,71,13
+298,Championnat National 3 Groupe Hauts-de-France,71,14
+299,Championnat National 3 Groupe Île-de-France,71,14
+300,Championnat National 3 Groupe Méditerranée-Corse,71,15
+301,Championnat National 3 Groupe Normandie,71,14
+302,Championnat National 3 Groupe Nouvelle-Aquitaine,71,14
+303,Championnat National 3 Groupe Occitanie,71,14
+304,Championnat National 3 Groupe Pays de la Loire,71,14
+305,Championnat National de la Première Division,57,1
+306,Championnat National de Premiere Division - Norte,208,1
+307,Championnat National de Premiere Division - Sud,208,1
+308,Championnat National du Bénin,19,2
+309,Championnat National MTN,38,1
+310,Championnat Régional - Koulikoro,133,1
+311,Championnat Régional 1 - Auvergne Rhône Alpes - Groupe A,71,2
+312,Championnat Régional 1 - Auvergne Rhône Alpes - Groupe B,71,5
+313,Championnat Régional 1 - Auvergne Rhône Alpes - Groupe C,71,9
+314,Championnat Régional 1 - Bourgogne-Franche Comté - Groupe B,71,5
+315,Championnat Régional 1 - Bourgogne-Franche Comté - Groupe C,71,1
+316,Championnat Régional 1 - Bretagne - Groupe A,71,4
+317,Championnat Régional 1 - Bretagne - Groupe B,71,4
+318,Championnat Régional 1 - Bretagne - Groupe C,71,1
+319,Championnat Régional 1 - Centre Val de Loire,71,2
+320,Championnat Régional 1 - Corse,71,5
+321,Championnat Régional 1 - Grand Est - Groupe A,71,2
+322,Championnat Régional 1 - Grand Est - Groupe B,71,2
+323,Championnat Régional 1 - Grand Est - Groupe C,71,4
+324,Championnat Régional 1 - Grand Est - Groupe D,71,1
+325,Championnat Régional 1 - Hauts de France - Groupe A,71,5
+326,Championnat Régional 1 - Hauts de France - Groupe B,71,4
+327,Championnat Régional 1 - Hauts de France - Groupe C,71,2
+328,Championnat Régional 1 - Méditerranée,71,7
+329,Championnat Régional 1 - Normandie - Groupe A,71,3
+330,Championnat Régional 1 - Normandie - Groupe B,71,3
+331,Championnat Régional 1 - Nouvelle Aquitaine - Groupe A,71,1
+332,Championnat Régional 1 - Nouvelle Aquitaine - Groupe B,71,7
+333,Championnat Régional 1 - Nouvelle Aquitaine - Groupe C,71,5
+334,Championnat Régional 1 - Occitanie - Groupe A,71,3
+335,Championnat Régional 1 - Occitanie - Groupe B,71,2
+336,Championnat Régional 1 - Occitanie - Groupe C,71,2
+337,Championnat Régional 1 - Paris Ile de France - Groupe A,71,4
+338,Championnat Régional 1 - Paris Ile de France - Groupe B,71,5
+339,Championnat Régional 1 - Pays de la Loire - Groupe A,71,7
+340,Championnat Régional 1 - Pays de la Loire - Groupe B,71,3
+341,Championnat Super Ligue,146,13
+342,Cherry Red Records Combined Counties League Premier South,62,1
+343,Chetvortyy Divizion - Podmoskovje,172,1
+344,Chinese Football Association League,41,18
+345,Chinese Football Association Super League,41,16
+346,CIMB Malaysia Super League,126,12
+347,cinch Championship,175,10
+348,cinch League 1,175,10
+349,cinch League 2,175,10
+350,cinch Premiership,175,12
+351,Clare District Soccer League,96,1
+352,Coca-Cola O'zbekiston Superligasi,219,14
+353,Coleraine & District Football League Premier League,151,5
+354,Cook Islands Round Cup,45,6
+355,Copa de Primera División Tigo-Visión Banco,159,10
+356,Copa Perú,160,40
+357,Copa Pilsner Segunda Categoría de Pichincha,60,2
+358,Cork AUL Premier League,96,1
+359,Côte d'Ivoire - Ligue 2 - Poule A,42,2
+360,Crimean Lower Division,216,3
+361,Crimean Premier League,216,5
+362,Crystalbet Erovnuli Liga,76,8
+363,Crystalbet Erovnuli Liga 2,76,3
+364,Cyta Championship,54,12
+365,Czwarta Liga,164,83
+366,Daily Mirror Mid-Ulster Football League Division One,151,3
+367,Daily Mirror Mid-Ulster Football League Division Three,151,3
+368,Daily Mirror Mid-Ulster Football League Division Two,151,1
+369,Daily Mirror Mid-Ulster Intermediate A,151,13
+370,Daily Mirror Mid-Ulster Intermediate B,151,4
+371,Dalian City League,41,1
+372,Danmarksserien Pulje 1,56,4
+373,Danmarksserien Pulje 2,56,6
+374,Danmarksserien Pulje 3,56,6
+375,Danmarksserien Pulje 4,56,4
+376,Danske Bank Premiership,151,12
+377,DBU Lower Leagues,56,23
+378,Défteri Katigoría,54,14
+379,Derde Divisie Zaterdag,147,16
+380,Derde Divisie Zondag,147,14
+381,Derde Klasse Zaterdag A Oost,147,1
+382,Derde Klasse Zaterdag A West 1,147,2
+383,Derde Klasse Zaterdag B West 1,147,2
+384,Derde Klasse Zaterdag B West 2,147,2
+385,Derde Klasse Zaterdag C West 2,147,1
+386,Derde Klasse Zaterdag C Zuid 1,147,1
+387,Derde Klasse Zondag B West 2,147,1
+388,Derde Klasse Zondag B Zuid 1,147,1
+389,Derde Klasse Zondag B Zuid 2,147,1
+390,Derde Klasse Zondag C West 1,147,1
+391,Derde Klasse Zondag D West 1,147,1
+392,DFB Lower Leagues,77,122
+393,Dhivehi Premier League,129,3
+394,Dialog Champions League,188,1
+395,Digicel Championnat Haïtienne,90,4
+396,Digicel Premier Division,20,11
+397,Digicel Premier League,68,8
+398,Digicel/Red Stripe Premier Division,11,1
+399,Divisão de Elite - AF Évora,165,7
+400,Divisão de Honra - AF Braga,165,1
+401,Divisão de Honra - AF Bragança,165,1
+402,Divisão de Honra - AF Coimbra,165,4
+403,Divisão de Honra - AF Évora,165,1
+404,Divisão de Honra - AF Leiria,165,4
+405,Divisão de Honra - AF Lisboa,165,3
+406,Divisão de Honra - AF Madeira,165,3
+407,Divisão de Honra - AF Porto Série 1,165,1
+408,Divisão de Honra - AF Vila Real,165,4
+409,Divisão de Honra - AF Viseu,165,15
+410,Division 2 Norra Götaland,197,5
+411,Division 2 Norra Svealand,197,3
+412,Division 2 Östra Götaland,197,5
+413,Division 2 Södra Svealand,197,7
+414,Division 2 Västra Götaland,197,6
+415,Division 3 amateur ACFF A,18,15
+416,Division 3 amateur ACFF B,18,15
+417,Division 3 Nordöstra Götaland,197,1
+418,Division 3 Östra Svealand,197,1
+419,Division 4,197,2
+420,División de Honor de Andalucía - Grupo 1,65,4
+421,División de Honor de Andalucía - Grupo 2,65,7
+422,División de Honor de Vizcaya,65,4
+423,División de Honor Juvenil - Grupo I,65,2
+424,División de Honor Juvenil - Grupo III,65,1
+425,División de Honor Juvenil - Grupo IV,65,2
+426,División de Honor Juvenil - Grupo VII,65,4
+427,División de Honor Regional de Guipúzcoa,65,2
+428,Division d'Honneur,141,3
+429,División Inferior,65,10
+430,División Intermedia,159,15
+431,Divisões inferiores do Campeonato Brasileiro,31,188
+432,Divizia Naţională,128,5
+433,Dominica Premier League,58,1
+434,Donegal Junior Premier Division,96,4
+435,Down Area Winter Football League Premier Division,151,1
+436,DPR Korea Premier Football League,166,11
+437,Druga Crnogorska Fudbalska Liga,135,4
+438,Druga Hrvatska Nogometna Liga,50,16
+439,Druga liga Federacije Bosne i Hercegovine Jug,24,1
+440,Druga liga Federacije Bosne i Hercegovine Zapad,24,1
+441,Druga liga Republike Srpske Istok,24,2
+442,Druga liga Republike Srpske Zapad,24,1
+443,Druhá Futbalová Liga,195,16
+444,Druha Liha A,216,13
+445,Druha Liha B,216,11
+446,Druhaja Liha,26,45
+447,DST Group Brunei Premier League,33,3
+448,DStv Premiership,171,16
+449,Dublin AUL Premier A Division,96,1
+450,East of Scotland First Division Conference A,175,15
+451,East of Scotland First Division Conference B,175,11
+452,Eastern Suburbs Premier League,12,1
+453,Ebac Northern League Division One,62,6
+454,Ebac Northern League Division Two,62,1
+455,Eccellenza Basilicata,101,2
+456,Eccellenza Calabria,101,5
+457,Eccellenza Campania Girone C,101,1
+458,Eccellenza Emilia-Romagna Girona A,101,2
+459,Eccellenza Emilia-Romagna Girone B,101,1
+460,Eccellenza Friuli-Venezia Giulia Girone A,101,5
+461,Eccellenza Friuli-Venezia Giulia Girone B,101,2
+462,Eccellenza Lazio Girone C,101,5
+463,Eccellenza Liguria Girone B,101,4
+464,Eccellenza Lombardia Girone A,101,4
+465,Eccellenza Lombardia Girone B,101,1
+466,Eccellenza Lombardia Girone C,101,5
+467,Eccellenza Marche,101,1
+468,Eccellenza Piemonte Girone A,101,3
+469,Eccellenza Piemonte Girone B,101,2
+470,Eccellenza Puglia Girone A,101,1
+471,Eccellenza Puglia Girone B,101,2
+472,Eccellenza Sardegna,101,4
+473,Eccellenza Sicilia Girone A,101,2
+474,Eccellenza Sicilia Girone B,101,2
+475,Eccellenza Toscana Girone A,101,3
+476,Eccellenza Toscana Girone B,101,4
+477,Eccellenza Umbria,101,4
+478,Eccellenza Veneto Girone A,101,2
+479,Eccellenza Veneto Girone B,101,6
+480,Eccellenza Veneto Girone C,101,3
+481,Econet Premier League,117,1
+482,Eerste Klasse Zaterdag A,147,2
+483,Eerste Klasse Zaterdag B,147,6
+484,Eerste Klasse Zaterdag C,147,3
+485,Eerste Klasse Zaterdag D,147,7
+486,Eerste Klasse Zaterdag E,147,2
+487,Eerste Klasse Zondag A,147,5
+488,Eerste Klasse Zondag B,147,1
+489,Eerste Klasse Zondag C,147,3
+490,Eerste Klasse Zondag D,147,1
+491,Eerste Klasse Zondag E,147,5
+492,Eerste Klasse Zondag F,147,1
+493,Eerste nationale,18,15
+494,Efbet League,34,14
+495,Egyptian Premier League B - Group 2,61,2
+496,EJL Lower Leagues,66,1
+497,Eliteleague Vorarlberg,13,11
+498,Eliteserien,154,16
+499,Elverys Sports Super League,96,4
+500,Eredivisie,147,18
+501,Erste Liga Gruppe 1,192,14
+502,Erste Liga Gruppe 2,192,14
+503,Erste Liga Gruppe 3,192,15
+504,Esiliiga,66,2
+505,Ettan Fotboll Division 1 Norra,197,16
+506,Ettan Fotboll Division 1 Södra,197,15
+507,eWinner II liga,164,17
+508,FABD Lower Leagues,33,20
+509,FAČR Lower Leagues,55,82
+510,FAI Lower Leagues,96,6
+511,FAM Lower Leagues,126,44
+512,FAM Second Division Football Tournament,129,1
+513,Far North Queensland Premier League,12,3
+514,Favbet Liha,216,16
+515,FAW Lower Leagues,226,1
+516,FBF Lower Leagues,29,5
+517,FCF Lower Leagues,46,4
+518,FEDEFUTBOL Lower Leagues,49,1
+519,Fermanagh & Western Mercer Cup Division One,151,8
+520,FF Lower Leagues,68,12
+521,FFAS Senior League,10,8
+522,FFC Lower Leagues,35,1
+523,FFIRI Lower Leagues,97,6
+524,FFRIM Super D1,140,4
+525,FFS Lower Leagues,174,45
+526,FFS National League,174,11
+527,Firmus Energy BSML Division One,151,2
+528,Firmus Energy BSML Division Two,151,1
+529,Flight Centre Premier League,12,1
+530,FNL-2 - Gruppa 1,172,15
+531,FNL-2 - Gruppa 2,172,21
+532,FNL-2 - Gruppa 3,172,18
+533,FNL-2 - Gruppa 4,172,15
+534,Football League OPAP Notios Omilos,82,17
+535,Football League OPAP Voreios Omilos,82,17
+536,Football Queensland Premier League,12,3
+537,Football Queensland Premier League 2,12,1
+538,Fortuna 1 Liga,164,18
+539,Fortuna Česká Fotbalová Liga Divize A,55,16
+540,Fortuna Česká Fotbalová Liga Divize B,55,16
+541,Fortuna Divize A,55,11
+542,Fortuna Divize B,55,13
+543,Fortuna Divize C,55,13
+544,Fortuna Liga,195,12
+545,FORTUNA:LIGA,55,16
+546,FORTUNA:NÁRODNÍ LIGA,55,16
+547,Foussball Éirepromotioun,121,9
+548,FPF Liga 3 Norte,165,12
+549,FPF Liga 3 Sul,165,12
+550,FSCG Lower Leagues,135,1
+551,G' Ethnikí 1os Omilos,82,12
+552,G' Ethnikí 2os Omilos,82,12
+553,G' Ethnikí 3os Omilos,82,11
+554,G' Ethnikí 4os Omilos,82,12
+555,G' Ethnikí 5os Omilos,82,11
+556,G' Ethnikí 6os Omilos,82,11
+557,G' Ethnikí 7os Omilos,82,10
+558,Galway Junior Premier Division,96,4
+559,Gebietsliga Mitte,13,1
+560,Gebietsliga Nord Nord West,13,3
+561,Gebietsliga Nordwest Waldviertel,13,3
+562,Gebietsliga Ost,13,3
+563,Gebietsliga Süd Südost,13,3
+564,Gebietsliga West,13,11
+565,Gebietsliga West Tirol,13,3
+566,GFA Premier League,83,1
+567,GFF Elite League,89,1
+568,GFF Lower Leagues,89,1
+569,Ghana Premier League,78,3
+570,Gibraltar National League,79,7
+571,Girabola ZAP,6,10
+572,Gold Coast Premier League,12,4
+573,Guadeloupe Division d'Honneur,80,2
+574,Guinée Championnat National,86,2
+575,Hana 1Q K League 1,109,12
+576,Hana 1Q K League 2,109,10
+577,Hayastani Arrajin Khumb,8,1
+578,Hayastani Bardzraguyn Khumb,8,7
+579,Hero I-League,95,13
+580,Hessenliga,77,11
+581,Highland Football League,175,18
+582,Hilux Revo Thai League,204,16
+583,HKFA Non-League Clubs,91,4
+584,Hokushin'etsu Football League Divison One,104,1
+585,Hong Kong First Division League,91,13
+586,Hong Kong Second Division League,91,5
+587,Hong Kong Third Division League,91,6
+588,Hoofdklasse Zaterdag A,147,12
+589,Hoofdklasse Zaterdag B,147,10
+590,Hoofdklasse Zondag A,147,4
+591,Hoofdklasse Zondag B,147,4
+592,Hrvatske Regionalne Lige - Dubrovnik,50,1
+593,Hrvatske Regionalne Lige - Koprivnica,50,1
+594,Hrvatske Regionalne Lige - Sibenik,50,1
+595,Hrvatske Regionalne Lige - Split,50,2
+596,Hrvatske Regionalne Lige - Varazdin,50,1
+597,Hrvatske Regionalne Lige - Vukovar,50,1
+598,Hrvatske Regionalne Lige - Zagreb,50,1
+599,Hrvatski Telekom Prva liga,50,10
+600,Hunan Super League,41,1
+601,Hypo TIROL Liga,13,6
+602,I Divisão - B,81,1
+603,I-League 2nd division,95,17
+604,Illawarra District League,12,1
+605,Illawarra Premier League,12,5
+606,Innishowen Premier Division,96,2
+607,Iraq Division One,98,6
+608,Iraqi Premier League,98,19
+609,Isuzu UTE A-League,12,12
+610,Jack's League,147,18
+611,Japan Football League,104,3
+612,Japanese Prefectural - Niigata-ken League,104,1
+613,JD Cymru North,226,15
+614,JD Cymru Premier,226,12
+615,JD Cymru South,226,16
+616,Jordan League Division One,103,4
+617,Jordan League Division Two A,103,1
+618,Jordan Pro League,103,10
+619,Jugendliga Tirol A,13,1
+620,Jugendliga Tirol B,13,1
+621,Jugoiztochna Treta liga,34,18
+622,Jugozapadna Treta liga,34,20
+623,Juniors East Region Super League,175,5
+624,Juniors North First Division,175,2
+625,Juniors North Second Division,175,1
+626,Juniors North Superleague,175,12
+627,Jupiler Pro League,18,18
+628,K League 3,109,15
+629,K League 4,109,14
+630,Kakkonen Lohko A,69,8
+631,Kakkonen Lohko B,69,11
+632,Kakkonen Lohko C,69,10
+633,Kampionato Liga MCB - Promé Division,53,1
+634,Kansai Soccer League Division One,104,1
+635,Kanto Soccer League Division Two,104,2
+636,Kärntner Unterliga Ost,13,2
+637,Kärntner Unterliga West,13,5
+638,Kategoria e Parë A,3,2
+639,Kategoria e Parë B,3,2
+640,Kategoria Superiore,3,9
+641,Kerry & District League Premier Division,96,2
+642,Keuken Kampioen Divisie,147,20
+643,KFA U League,109,2
+644,KFF Lower Leagues,105,1
+645,Khurkhree National Premier League,131,2
+646,Kilkenny & District League Premier Division,96,1
+647,Kolmonen,69,17
+648,KPHL National Soccer League,163,9
+649,Kuwaiti Division One,111,5
+650,La Ligue Sénégalaise de Football Professionnel,176,5
+651,LaLiga Santander,65,20
+652,LaLiga SmartBank,65,22
+653,Landesliga Kärnten,13,10
+654,Landesliga Vorarlberg,13,5
+655,Latvijas Elites U18 čempionāts,122,2
+656,Latvijas Rezerves Cempionāts,122,7
+657,League1 Ontario,36,22
+658,Lega Nazionale Dilettanti A,101,19
+659,Lega Nazionale Dilettanti B,101,17
+660,Lega Nazionale Dilettanti C,101,18
+661,Lega Nazionale Dilettanti D,101,17
+662,Lega Nazionale Dilettanti E,101,16
+663,Lega Nazionale Dilettanti F,101,10
+664,Lega Nazionale Dilettanti G,101,15
+665,Lega Nazionale Dilettanti H,101,16
+666,Lega Nazionale Dilettanti I,101,13
+667,Leinster Senior League Senior 1 Division,96,10
+668,Leinster Senior League Senior 1A Division,96,5
+669,Leinster Senior League Senior 1B Division,96,3
+670,Leinster Senior League Senior Division,96,12
+671,Lengjudeild,99,12
+672,LFA Premier League,118,7
+673,LFA-Orange First Division League,114,2
+674,LFF 2. līga,122,2
+675,LFF A Lyga,120,8
+676,LFF Lower Leagues,122,2
+677,Libyan Premier League,115,12
+678,Liga 1 Betsson,160,18
+679,Liga 2 Betsson,160,12
+680,Liga 2 Indonesia,94,24
+681,Liga 3 Indonesia,94,11
+682,Liga 4 Indonesia,94,1
+683,Liga Alef - Darom,100,18
+684,Liga Alef - Tsafon,100,18
+685,Liga BBVA Expansión MX,130,17
+686,Liga BBVA MX,130,18
+687,Liga Bet - Darom A,100,14
+688,Liga Bet - Darom B,100,14
+689,Liga Bet - Emek Yizre'el U19,100,1
+690,Liga Bet - Tzafon A,100,12
+691,Liga Bet - Tzafon B,100,14
+692,Liga Betcris de Honduras,92,9
+693,Liga BetPlay DIMAYOR,46,20
+694,Liga de Elite,123,2
+695,Liga de Fútbol cuscatleco Profesional,181,12
+696,Liga de Fútbol de Primera División,49,12
+697,Liga de Plata Salvadoreña,181,7
+698,Liga Dominicana de Fútbol,59,10
+699,Liga Elitelor U19 Est,170,1
+700,Liga Futebol Amadora Primeira Divisão,207,3
+701,Liga FUTVE Venezolana,221,13
+702,Liga Gimel - Central,100,6
+703,Liga Gimel - Darom,100,4
+704,Liga Gimel - Emek Jizreël,100,1
+705,Liga Gimel - HaGalil Ha'Elyon,100,7
+706,Liga Gimel - HaGalil HaTahton,100,6
+707,Liga Gimel - Samaria,100,8
+708,Liga Gimel - Sharon,100,8
+709,Liga Gimel - Tel-Aviv,100,5
+710,Liga II Casa Pariurilor,170,20
+711,Liga III Seria I,170,10
+712,Liga III Seria II,170,10
+713,Liga III Seria III,170,10
+714,Liga III Seria IV,170,10
+715,Liga III Seria IX,170,10
+716,Liga III Seria V,170,10
+717,Liga III Seria VI,170,10
+718,Liga III Seria VII,170,10
+719,Liga III Seria VIII,170,9
+720,Liga III Seria X,170,10
+721,Liga Interinsular Preferente de Tenerife,65,1
+722,Liga IV Alba,170,2
+723,Liga IV Arad,170,4
+724,Liga IV Argeș,170,3
+725,Liga IV Bacău,170,2
+726,Liga IV Bihor,170,7
+727,Liga IV Bistrița-Năsăud,170,1
+728,Liga IV Botoșani,170,1
+729,Liga IV Brașov,170,2
+730,Liga IV București,170,2
+731,Liga IV Buzău,170,2
+732,Liga IV Călărași,170,1
+733,Liga IV Caraș-Severin,170,1
+734,Liga IV Cluj,170,3
+735,Liga IV Constanța,170,2
+736,Liga IV Covasna,170,1
+737,Liga IV Dolj,170,2
+738,Liga IV Galați,170,2
+739,Liga IV Giurgiu,170,1
+740,Liga IV Hunedoara,170,4
+741,Liga IV Iași,170,4
+742,Liga IV Maramureș,170,1
+743,Liga IV Mureș,170,2
+744,Liga IV Neamț,170,1
+745,Liga IV Prahova,170,1
+746,Liga IV Satu Mare,170,4
+747,Liga IV Sibiu,170,2
+748,Liga IV Suceava,170,1
+749,Liga IV Teleorman,170,4
+750,Liga IV Timiș,170,7
+751,Liga IV Tulcea,170,2
+752,Liga IV Vrancea,170,1
+753,Liga Leumit,100,16
+754,Liga Leumit U19 - Darom,100,1
+755,Liga Leumit U19 - Tzafon,100,1
+756,Liga M3 Malaysia Kumpulan A,126,6
+757,Liga M3 Malaysia Kumpulan B,126,4
+758,Liga Movistar Segunda Division,49,6
+759,Liga Nacional de Ascenso de Honduras,92,8
+760,Liga Nacional de Fútbol - Continental,63,3
+761,Liga Nacional de Fútbol - Insular,63,1
+762,Liga Nacional de Fútbol de Guatemala,84,12
+763,Liga Nacional Juvenil de Fútbol - Grupo I,65,2
+764,Liga Nacional Juvenil de Fútbol - Grupo II,65,1
+765,Liga Nacional Juvenil de Fútbol - Grupo IV,65,1
+766,Liga Nacional Juvenil de Fútbol - Grupo V,65,1
+767,Liga Nacional Juvenil de Fútbol - Grupo VII,65,1
+768,Liga Nacional Juvenil de Fútbol - Grupo XII,65,1
+769,Liga Nacional Juvenil de Fútbol - Grupo XIII,65,2
+770,Liga Panameña de Futbol,158,10
+771,Liga Portugal 2 SABSEG,165,18
+772,Liga Portugal Bwin,165,18
+773,Liga Preferente Valenciana - Grupo 1,65,3
+774,Liga Preferente Valenciana - Grupo 2,65,1
+775,Liga Preferente Valenciana - Grupo 3,65,3
+776,Liga Preferente Valenciana - Grupo 4,65,6
+777,Liga Premier de México Serie A - Grupo I,130,14
+778,Liga Premier de México Serie A - Grupo II,130,13
+779,Liga Premier de México Serie B,130,8
+780,Liga Primera de Nicaragua,145,9
+781,Liga Profesional de Fútbol,7,26
+782,Liga Puerto Rico,167,2
+783,Liga Puerto Rico 2,167,1
+784,Liga São Vicente,48,2
+785,Liga Super Brunei,33,16
+786,Liga V,170,10
+787,LigaPro Banco Pichincha,60,16
+788,LigaPro Banco Pichincha Pymes,60,7
+789,Ligas Regionais Inferiores,165,11
+790,Ligat Tel Aviv Stock Exchange,100,14
+791,Ligi Kuu Tanzania Bara,201,3
+792,Ligue 1 Orange Mali,133,7
+793,Ligue 1 Uber Eats,71,20
+794,Ligue 1 Vini,200,12
+795,Ligue 2 BKT,71,20
+796,Ligue 2 Vini,200,2
+797,Ligue de Bangui,51,3
+798,Ligue Professionelle 1 Mobilis,4,10
+799,Ligue Professionelle 2 - Est,4,5
+800,Ligue Professionelle 2 - Ouest,4,4
+801,Ligue Professionnelle 2 - D,211,1
+802,Ligue Régionale Bamako - Poule B,133,2
+803,Limerick & District Premier Division,96,8
+804,Linglong Tire Super liga,187,16
+805,Lliga Multisegur Assegurances,5,7
+806,LND Seconda Categoria,101,2
+807,Lough 41 Premier Intermediate League,151,11
+808,Lough41 Championship,151,12
+809,Lower Leagues,36,42
+810,Lowland Football League,175,18
+811,LS V.League 1,223,12
+812,LS V.League 2,223,1
+813,LT1 OÖ Liga,13,12
+814,Luganville Football League,220,5
+815,m:tel Premijer liga Bosne i Hercegovine,24,12
+816,Mainland Premier League,155,8
+817,Major League Soccer,218,27
+818,Malampa Football League,220,1
+819,Malaysia Liga Premier,126,11
+820,Martyr's Memorial A-Division League,148,1
+821,MaxLine Pieršaja Liha,26,12
+822,McCalls Premier League,151,2
+823,Meiji-Yasuda J.League Division One,104,20
+824,Meiji-Yasuda J2 League,104,22
+825,Meiji-Yasuda J3 League,104,6
+826,Merkantil Bank Liga,93,20
+827,Metfone Cambodian League,35,4
+828,Mexican Third Division Group 15,130,4
+829,Mexican Third Division Group 16,130,7
+830,Mezhregionalnaja - Krasnodarskiy Kray,172,1
+831,Mezhregionalnaja Federatsija Futbola - Zolotoe Koltso,172,2
+832,Mezhregionalnaja Obshestvennaja Assotsiatsija po Futbolu - Chernozemje,172,2
+833,Mezhregionalnaja Obshestvennaja Organizatsija - Sojuz Federatsij Futbola Yuzhnogo Federalnogo Okruga,172,2
+834,Mezhregionalnoe Ob'edinenie - Moskva,172,5
+835,Mezhregionalnoe Ob'edinenie - Podmoskovye - Gruppa A,172,3
+836,Mezhregionalnoe Ob'edinenie - Sojuz Federatsij Futbola Urala i Zapadnoj Sibiri,172,1
+837,Mezhregionalnyj Futbolnyj Sojuz - Privolzhe,172,1
+838,Midland Football League Premier Division,62,3
+839,M-Liga,172,4
+840,MLSZ Lower Leagues,93,216
+841,Monaghan Cavan Premier Division,96,1
+842,Moravskoslezská Divize D,55,11
+843,Moravskoslezská Divize E,55,12
+844,Moravskoslezská Divize F,55,13
+845,Moravskoslezská Fotbalová Liga,55,18
+846,MPT Myanmar National League,143,2
+847,MTN Elite One,43,2
+848,MTN Ligue 1,42,8
+849,MTN Premier League,198,2
+850,MTN/FAZ Super Division,228,8
+851,Munster Senior League First Division,96,2
+852,Munster Senior League Premier Division,96,9
+853,Munster Senior League Second Division,96,2
+854,Nasser Bin Hamad Premier League,22,10
+855,National First Division,171,16
+856,National Foot 1,74,1
+857,National Football League One,178,9
+858,National Football League Two,178,8
+859,National Independent Soccer Association,218,10
+860,National League - Central League,155,10
+861,National League - Northern League,155,12
+862,National Premier Leagues - ACT 2,12,2
+863,National Premier Leagues - New South Wales 3,12,3
+864,National Premier Leagues - NSW 3,12,4
+865,National Premier Leagues - Victoria 2,12,6
+866,National Premier Leagues - Victoria 3,12,8
+867,National Premier Soccer League Midwest Region,218,9
+868,National Premier Soccer League Northeast Region,218,9
+869,National Premier Soccer League South Region,218,15
+870,National Premier Soccer League West Region,218,3
+871,National Provident Fund Championship League,213,7
+872,Nelson Bays Division One,155,1
+873,Nemzeti Bajnokság III - Keleti,93,20
+874,Nemzeti Bajnokság III - Közep,93,20
+875,Nemzeti Bajnokság III - Nyugati,93,20
+876,NFF Lower Leagues,154,75
+877,Niederösterreichischer 1. Landesliga,13,6
+878,Niederösterreichischer 2. Landesliga Ost,13,4
+879,Niederösterreichischer 2. Landesliga West,13,4
+880,Nigerian Professional Football League,149,9
+881,Nitol Tata Bangladesh Premier League,16,7
+882,NNSW Northern League One,12,1
+883,NOFV-Oberliga Nord,77,13
+884,NOFV-Oberliga Süd,77,13
+885,NordicBet Liga,56,12
+886,Norsk Tipping-ligaen Avdeling 1,154,14
+887,Norsk Tipping-ligaen Avdeling 2,154,14
+888,Norsk Tipping-ligaen Avdeling 3,154,14
+889,Norsk Tipping-ligaen Avdeling 4,154,14
+890,Norsk Tipping-ligaen Avdeling 5,154,14
+891,Norsk Tipping-ligaen Avdeling 6,154,14
+892,North Caledonian League,175,11
+893,North East Football League Premier Division,96,2
+894,North East Wales League Championship,226,1
+895,North East Wales League Premier Division,226,2
+896,North West Counties Division One North,62,2
+897,North West Counties Football League Division One South,62,2
+898,North West Counties Premier Division,62,4
+899,North West Junior Premier Division,151,1
+900,Northern Amateur Football League Division 2B,151,1
+901,Northern Amateur Football League Division 2C,151,3
+902,Northern Amateur League Division 1A,151,12
+903,Northern Amateur League Division 1B,151,9
+904,Northern Amateur League Division 1C,151,8
+905,Northern Amateur League Division 2A,151,5
+906,Northern Amateur League Premier Division,151,12
+907,Northern Ireland Intermediate League,151,5
+908,NRF Championship,155,8
+909,NRFL Division One,155,11
+910,NRFL Division Two,155,12
+911,NSW League One,12,4
+912,NWC East Football League Premier League,226,1
+913,NZF Lower Leagues,155,3
+914,NZS Lower Leagues,196,82
+915,Oberliga A,13,1
+916,Oberliga Baden-Württemberg,77,16
+917,Oberliga Bremen,77,1
+918,Oberliga Hamburg,77,7
+919,Oberliga Mittelrhein,77,11
+920,Oberliga Niederrhein,77,15
+921,Oberliga Niedersachsen,77,8
+922,Oberliga Rheinland-Pfalz/Saar,77,16
+923,Oberliga Schleswig-Holstein,77,3
+924,Oberliga Westfalen,77,12
+925,Oberösterreichischer Landesliga Ost,13,3
+926,Oberösterreichischer Landesliga West,13,6
+927,OBOS-Ligaen,154,16
+928,ODT Southern Men's Premier League,155,6
+929,ÖFB Jugendliga U18,13,4
+930,OLIMP Football National League,172,20
+931,Oman Professional League,156,12
+932,Omantel First Division League A,156,1
+933,Omantel First Division League B,156,1
+934,Omantel First Division League D,156,1
+935,Ontario Soccer League,36,1
+936,Ooredoo Palestinian Premier League,162,8
+937,Optibet Nākotnes līga,122,10
+938,Optibet Virslīga,122,7
+939,Orange Pro League Madagascar,124,3
+940,OTP Bank Liga,93,12
+941,O'zbekiston Birinchi ligasi,219,1
+942,O'zbekiston Pro Ligasi,219,6
+943,Pacific Coast Soccer League,36,2
+944,Pacific Premiership,155,2
+945,Penama Football League,220,1
+946,Pepsi Lao League 1,113,1
+947,Pepsi Max Deild,99,12
+948,Persha Liha,216,16
+949,Persian Gulf Pro League,97,16
+950,Peruvian Metropolitan Zone,160,1
+951,PFF Lower Leagues,161,2
+952,Pirma Lyga,120,2
+953,Pitching In Isthmian Division One North,62,9
+954,Pitching In Isthmian Division One South Central,62,6
+955,Pitching In Isthmian Division One South East,62,3
+956,Pitching In Isthmian Premier Division,62,18
+957,Pitching In League Southern Premier Division Central,62,14
+958,Pitching In League Southern Premier Division South,62,18
+959,Pitching In Northern League Division One North West,62,13
+960,Pitching In Northern League Division One South East,62,9
+961,Pitching In Northern Premier Division,62,20
+962,Pitching In Northern Premier League Division One Midlands,62,5
+963,Pitching In Southern Football League Division One Central,62,4
+964,Pitching In Southern Football League Division One South,62,2
+965,PKO Bank Polski Ekstraklasa,164,18
+966,Pohnpei Premier League,73,3
+967,Port Vila First Division,220,3
+968,Port Vila Premier League,220,8
+969,Port Vila Second Division,220,1
+970,Portugal Championship - Group A,165,10
+971,Portugal Championship - Group B,165,10
+972,Portugal Championship - Group C,165,10
+973,Portugal Championship - Group D,165,10
+974,Portugal Championship - Group E,165,10
+975,Portugal Championship - Group F,165,10
+976,PostNord-ligaen Avdeling 1,154,14
+977,PostNord-ligaen Avdeling 2,154,14
+978,Preferente Autonómica de la Región de Murcia,65,3
+979,Preferente de Aficionados de Madrid - Grupo 1,65,6
+980,Preferente de Aficionados de Madrid - Grupo 2,65,5
+981,Preferente Galicia - Grupo Norte,65,5
+982,Preferente Galicia - Grupo Sur,65,11
+983,Premier League,62,20
+984,Premier League of Belize,27,2
+985,Première Ligue de soccer du Québec,36,9
+986,Prima Categoria Calabria Girone A,101,1
+987,Prima Categoria Calabria Girone C,101,1
+988,Prima Categoria Calabria Girone D,101,1
+989,Prima Categoria Lazio Girone F,101,1
+990,Prima Categoria Lombardia Girone B,101,1
+991,Prima Categoria Veneto Girone F,101,1
+992,Primeira Divisão - AF Algarve,165,11
+993,Primeira Divisão - AF Aveiro,165,1
+994,Primeira Divisão - AF Beja,165,6
+995,Primeira Divisão - AF Castelo Branco,165,7
+996,Primeira Divisão - AF Coimbra,165,1
+997,Primeira Divisão - AF Guarda,165,1
+998,Primeira Divisão - AF Leiria,165,2
+999,Primeira Divisão - AF Portalegre,165,2
+1000,Primeira Divisão - AF Santarém,165,6
+1001,Primeira Divisão - AF Setúbal,165,16
+1002,Primeira Divisão - AF Viana do Castelo,165,5
+1003,Primera Andaluza - Grupo de Cádiz,65,2
+1004,Primera Autonómica de Navarra - Grupo 1,65,2
+1005,Primera Autonómica Preferente de Castilla-La Mancha - Grupo 1,65,2
+1006,Primera Autonómica Preferente de Castilla-La Mancha - Grupo 2,65,1
+1007,Primera B Metropolitana,7,17
+1008,Primera C Metropolitana,7,19
+1009,Primera Catalana - Grupo 1,65,5
+1010,Primera Catalana - Grupo 2,65,3
+1011,Primera D Metropolitana,7,12
+1012,Primera División Autonómica de Melilla,65,2
+1013,Primera División B,159,6
+1014,Primera División C,46,83
+1015,Primera División de Ascenso,84,15
+1016,Primera División de Bolivia,29,16
+1017,Primera División Extremeña - Grupo 3,65,1
+1018,Primera División Juvenil de Colombia - U20,46,9
+1019,Primera División Regional de Aficionados de Castilla y León - Grupo A,65,1
+1020,Primera División Regional de Aficionados de Castilla y León - Grupo B,65,3
+1021,Primera Nacional,7,35
+1022,Primera Regional Preferente de Baleares - Grupo de Ibiza-Formentera,65,1
+1023,Primera Regional Preferente de Baleares - Grupo de Mallorca,65,1
+1024,Primera RFEF Footters - Grupo I,65,20
+1025,Primera RFEF Footters - Grupo II,65,20
+1026,Promotion d'Honneur - Lifou,146,1
+1027,Promotion d'Honneur - Sud,146,4
+1028,Promotion d'Honneur Régionale - Poule A,80,1
+1029,Promotion d'Honneur Régionale - Poule B,80,1
+1030,Promozione Abruzzo Girone B,101,1
+1031,Promozione Basilicata,101,1
+1032,Promozione Calabria Girone A,101,2
+1033,Promozione Calabria Girone B,101,1
+1034,Promozione Emilia-Romagna Girone B,101,1
+1035,Promozione Friuli-Venezia Giulia Girone B,101,1
+1036,Promozione Lazio Girone B,101,2
+1037,Promozione Liguria Girone A,101,1
+1038,Promozione Lombardia Girone B,101,1
+1039,Promozione Lombardia Girone E,101,1
+1040,Promozione Marche Girone A,101,1
+1041,Promozione Piemonte e Valle d'Aosta Girone A,101,1
+1042,Promozione Sardegna Girona A,101,1
+1043,Promozione Toscana Girone B,101,3
+1044,Promozione Toscana Girone D,101,1
+1045,Pro-Nacional - AF Braga,165,15
+1046,Pro-Nacional - AF Lisboa,165,15
+1047,Provincial Leagues,96,1
+1048,Proximus League,18,8
+1049,Prva Kantonalna Liga HNK,24,1
+1050,Prva Liga Federacije,24,7
+1051,Prva Liga Republike Srpske,24,9
+1052,Prva liga Srbije,187,16
+1053,Prva Liga Telemach,196,10
+1054,Prva Makedonska Liga,132,11
+1055,PS4 National Premier League - New South Wales,12,12
+1056,PS4 National Premier Leagues - Australian Capital Territory,12,4
+1057,PS4 National Premier Leagues - Northern New South Wales,12,8
+1058,PS4 National Premier Leagues - Queensland,12,11
+1059,PS4 National Premier Leagues - South Australia,12,11
+1060,PS4 National Premier Leagues - Tasmania,12,5
+1061,PS4 National Premier Leagues - Victoria,12,14
+1062,PS4 National Premier Leagues - Western Australia,12,11
+1063,Qatar Second Division League,168,7
+1064,Qazaqstan Birinşi Lïgası,105,3
+1065,Qazaqstan Premer Lïgası,105,13
+1066,QFA Lower Leagues,168,4
+1067,QNB Stars League,168,12
+1068,Qyrğyz Premjer Ligasy,107,3
+1069,Raiffeisen Super League,192,10
+1070,Red Stripe Premier League,102,5
+1071,Regional Preferente de Álava,65,1
+1072,Regional Preferente de Aragón - Grupo 1,65,1
+1073,Regional Preferente de Aragón - Grupo 2,65,1
+1074,Regional Preferente de Asturias,65,1
+1075,Regional Preferente de Cantabria,65,1
+1076,Regional Preferente de La Rioja,65,1
+1077,Regionalliga Bayern,77,20
+1078,Regionalliga Mitte,13,17
+1079,Regionalliga Nord,77,21
+1080,Regionalliga Nordost,77,20
+1081,Regionalliga Ost,13,14
+1082,Regionalliga Südwest,77,19
+1083,Regionalliga West,77,20
+1084,RFFU - Chernihivs'ka Oblast - Vyscha Liha,216,1
+1085,RFFU - Chernivets'ka Oblast,216,1
+1086,RFFU - Dnipropetrovs'ka Oblast - Chempionat Oblasti,216,1
+1087,RFFU - Donest'ka Oblast - Vyscha Liha,216,1
+1088,RFFU - Ivano-Frankivs'ka Oblast - Persha Liha,216,1
+1089,RFFU - Kharkivs'ka Oblast - Vyscha Liha,216,1
+1090,RFFU - Kyivs'ka Oblast - Chempionat Oblasti,216,2
+1091,RFFU - L'vivs'ka Oblast - Prem'er Liha,216,1
+1092,RFFU - L'vivs'ka Oblast - Vyscha Liha,216,1
+1093,RFFU - Mikolayvs'ka Oblast - Persha Grupa,216,1
+1094,RFFU - Poltavs'ka Oblast - Prem'er Liha,216,2
+1095,RFFU - Sums'ka Oblast - Persha Grupa,216,1
+1096,RFFU - Volyns'ka Oblast - Vyscha Liha,216,4
+1097,RFFU - Zaporiz'ka Oblast - Chempionat Oblasti,216,1
+1098,RFS Lower Leagues,172,5
+1099,Roscommon & District Premier Division,96,1
+1100,Rwanda Premier League,173,1
+1101,SAFA Regional Leagues - Eastern Cape,171,7
+1102,SAFA Regional Leagues - Free State,171,1
+1103,SAFA Regional Leagues - Gauteng,171,2
+1104,SAFA Regional Leagues - Kwazulu Natal,171,4
+1105,SAFA Regional Leagues - Mpumalanga,171,4
+1106,SAFA Regional Leagues - North West Province,171,1
+1107,SAFA Regional Leagues - Western Cape,171,2
+1108,SAFA Second Division - Eastern Cape,171,7
+1109,SAFA Second Division - Free State,171,2
+1110,SAFA Second Division - Gauteng,171,5
+1111,SAFA Second Division - KwaZulu Natal,171,5
+1112,SAFA Second Division - Limpopo,171,3
+1113,SAFA Second Division - Mpumalanga,171,2
+1114,SAFA Second Division - North West Province,171,2
+1115,SAFA Second Division - Northern Cape,171,2
+1116,SAFA Second Division - Western Cape,171,11
+1117,SAFF Lower Leagues,110,1
+1118,Salzburger 1. Landesliga,13,3
+1119,Salzburger Liga,13,3
+1120,Sanma Football League,220,1
+1121,Saudi League First Division,110,20
+1122,Saudi League Third Division B,110,1
+1123,Saudi League Third Division D,110,1
+1124,Saudi Professional League,110,16
+1125,Saudi Second Division League A,110,10
+1126,Saudi Second Division League B,110,9
+1127,Schweizer U18 Liga - Gruppe B,192,8
+1128,Scottish Juniors East Region Premier League,175,12
+1129,Segunda División B Nacional de Uruguay,217,21
+1130,Segunda División de Ascenso,84,3
+1131,Segunda División de Bolivia Simón Bolívar,29,12
+1132,Segunda División de Nicaragua,145,3
+1133,Segunda División de Panamá,158,1
+1134,Segunda División de Venezuela,221,10
+1135,Segunda División Juvenil de Colombia - U20,46,3
+1136,Segunda División Profesional Nacional de Uruguay,217,12
+1137,Segunda División RFEF - Grupo I,65,18
+1138,Segunda División RFEF - Grupo II,65,18
+1139,Segunda División RFEF - Grupo III,65,18
+1140,Segunda División RFEF - Grupo IV,65,18
+1141,Segunda División RFEF - Grupo V,65,18
+1142,Segundo Divisão - AF Algarve,165,1
+1143,Segundo Divisão - AF Beja,165,2
+1144,Segundo Divisão - AF Madeira,165,1
+1145,Segundo Divisão - AF Santarém,165,2
+1146,Segundo Divisão - AF Setúbal,165,2
+1147,Serie A TIM,101,20
+1148,Serie BKT,101,20
+1149,Serie C Girone A,101,20
+1150,Serie C Girone B,101,20
+1151,Serie C Girone C,101,20
+1152,Severoiztochna Treta liga,34,14
+1153,Severozapadna Treta liga,34,17
+1154,SFL Lower Leagues,178,10
+1155,SFZ Lower Leagues,195,43
+1156,Shefa Football League,220,2
+1157,Shenzhen FA City Super League,41,1
+1158,Sierra Leone National Premier League,180,2
+1159,Singapore Island Wide Leagues,178,5
+1160,Sky Bet Championship,62,24
+1161,Sky Bet League One,62,24
+1162,Sky Bet League Two,62,24
+1163,Sligo and Leitrim Super League,96,2
+1164,Sojuz Federatsij Futbola - Sibir - Vyschaja Liga,172,3
+1165,South Australia - State League 1,12,4
+1166,South Australia - State League 2,12,2
+1167,South Canterbury Division One,155,1
+1168,South of Scotland Football League,175,10
+1169,Sparkassen Landesliga,13,10
+1170,Sparkassen Oberliga Mitte West,13,3
+1171,Sparkassen Oberliga Nord,13,3
+1172,Sparkassen Oberliga Süd Ost,13,4
+1173,SPL Lower Leagues,69,11
+1174,Spor Toto 1. Lig,212,19
+1175,Spor Toto Süper Lig,212,20
+1176,Srpska liga Beograd,187,16
+1177,Srpska liga Istok,187,15
+1178,Srpska liga Vojvodina,187,16
+1179,Srpska liga Zapad,187,16
+1180,SSE Airtricity League First Division,96,9
+1181,SSE Airtricity League Premier Division,96,10
+1182,STC Premier League,111,10
+1183,Sudani Premier League,191,6
+1184,Sunshine Coast Premier League,12,1
+1185,Super League Interwetten,82,14
+1186,Superettan,197,16
+1187,SVB Eerste Divisie,194,2
+1188,SvFF Lower Leagues,197,2
+1189,Syrian League 1st Division Group C,199,2
+1190,Syrian Premier League,199,14
+1191,Tafea Football League,220,2
+1192,Taiwan Football League Division 2,209,1
+1193,Taiwan Football Premier League,209,2
+1194,Tajikistan Higher League,205,2
+1195,Taranaki Premiership,155,1
+1196,Tasmania Southern Premier League,12,2
+1197,T-Com Prva Crnogorska Fudbalska Liga,135,8
+1198,Telekom S-League,185,12
+1199,Tercera División A de Chile,40,15
+1200,Tercera División B de Chile Zona Centro,40,9
+1201,Tercera División B de Chile Zona Norte,40,9
+1202,Tercera División B de Chile Zona Sur,40,7
+1203,Tercera División Grupo I,130,4
+1204,Tercera División Grupo II,130,5
+1205,Tercera División Grupo III,130,2
+1206,Tercera División Grupo IV,130,6
+1207,Tercera División Grupo IX,130,2
+1208,Tercera División Grupo V,130,3
+1209,Tercera División Grupo VII,130,2
+1210,Tercera División Grupo VIII,130,4
+1211,Tercera División Grupo X,130,3
+1212,Tercera División Grupo XI,130,3
+1213,Tercera División Grupo XII,130,4
+1214,Tercera División Grupo XIII,130,5
+1215,Tercera División Grupo XIV,130,3
+1216,Tercera División RFEF - Grupo I,65,17
+1217,Tercera División RFEF - Grupo II,65,19
+1218,Tercera División RFEF - Grupo III,65,10
+1219,Tercera División RFEF - Grupo IV,65,18
+1220,Tercera División RFEF - Grupo IX,65,16
+1221,Tercera División RFEF - Grupo V,65,17
+1222,Tercera División RFEF - Grupo VI,65,19
+1223,Tercera División RFEF - Grupo VII,65,21
+1224,Tercera División RFEF - Grupo VIII,65,17
+1225,Tercera División RFEF - Grupo X,65,17
+1226,Tercera División RFEF - Grupo XI,65,18
+1227,Tercera División RFEF - Grupo XII,65,17
+1228,Tercera División RFEF - Grupo XIII,65,17
+1229,Tercera División RFEF - Grupo XIV,65,14
+1230,Tercera División RFEF - Grupo XV,65,12
+1231,Tercera División RFEF - Grupo XVI,65,12
+1232,Tercera División RFEF - Grupo XVII,65,15
+1233,Tercera División RFEF - Grupo XVIII,65,17
+1234,TFF 2. Lig Beyaz Grup,212,18
+1235,TFF 2. Lig Kırmızı Grup,212,20
+1236,TFF 3. Lig 1. Grup,212,17
+1237,TFF 3. Lig 2. Grup,212,19
+1238,TFF 3. Lig 3. Grup,212,17
+1239,Thai League 2 M-150 Championship,204,15
+1240,Thailand Regional Championship - Bangkok Perimeter Region,204,4
+1241,Thailand Regional Championship - Eastern Region,204,1
+1242,Thailand Regional Championship - Northern Eastern Region,204,3
+1243,Thailand Regional Championship - Northern Region,204,5
+1244,Thailand Regional Championship - Southern Region,204,2
+1245,Thailand Regional Championship - Western Region,204,2
+1246,The Philippines Football League,161,2
+1247,Tinkoff Russian Premier Liga,172,16
+1248,Tipperary Southern & District Premier,96,4
+1249,Tiroler Landesliga Ost,13,3
+1250,Tiroler Landesliga West,13,7
+1251,Tonga Major League,203,6
+1252,Toolstation Northern Counties East Premier Division,62,4
+1253,Torba Football League,220,1
+1254,Torneo BetPlay DIMAYOR,46,15
+1255,Torneo Federal A,7,32
+1256,Torneo Federal C,7,391
+1257,Torneo Regional Federal Amateur,7,74
+1258,Treća Hrvatska Liga Istok,50,17
+1259,Treća Hrvatska Liga Jug,50,18
+1260,Treća Hrvatska Liga Sjever,50,10
+1261,Treća Hrvatska Liga Srednja,50,18
+1262,Treća Hrvatska Liga Zapad,50,13
+1263,Tríti Katigoría,54,2
+1264,Trzecia liga - Grupa 1,164,19
+1265,Trzecia liga - Grupa 2,164,14
+1266,Trzecia liga - Grupa 3,164,18
+1267,Trzecia liga - Grupa 4,164,16
+1268,TT Pro League,210,3
+1269,tt.com Regionalliga Salzburg,13,10
+1270,tt.com Regionalliga Tirol - Grunddurchgang,13,12
+1271,tt.com RL Tirol - Grunddurchgang,13,1
+1272,Türkiye Süper Amatör Lig,212,1
+1273,Türkmenistan Ýokary Liga,206,2
+1274,Tweede Klasse Zaterdag A,147,2
+1275,Tweede Klasse Zaterdag D,147,1
+1276,Tweede Klasse Zaterdag G,147,1
+1277,Tweede Klasse Zaterdag I,147,1
+1278,Tweede Klasse Zaterdag J,147,2
+1279,Tweede Klasse Zondag A,147,2
+1280,Tweede Klasse Zondag E,147,2
+1281,Tweede Klasse Zondag F,147,1
+1282,Tweede Klasse Zondag G,147,2
+1283,Tweede Klasse Zondag K,147,1
+1284,U.S. Soccer Development Academy Atlantic Division,218,12
+1285,U.S. Soccer Development Academy Frontier Division,218,12
+1286,U.S. Soccer Development Academy Mid-America Division,218,13
+1287,U.S. Soccer Development Academy Northeast Division,218,12
+1288,U.S. Soccer Development Academy Northwest Division,218,10
+1289,U.S. Soccer Development Academy Southeast Division,218,15
+1290,U.S. Soccer Development Academy Southwest Division,218,10
+1291,U19 A,99,10
+1292,U19 B,99,5
+1293,U19 C,99,6
+1294,UAE First Division League,214,12
+1295,UAE Second Division League A,214,3
+1296,UAE Second Division League B,214,2
+1297,UAF Lower Leagues,216,8
+1298,uhlsport Hellenic Football League Division One,62,1
+1299,uhlsport United Counties League Premier North,62,2
+1300,uhlsport United Counties League Premier South,62,1
+1301,Ukrayins'ka Molodizhna Liha,216,1
+1302,Ulster Senior League,96,4
+1303,United Premier Soccer League,218,22
+1304,United Soccer League Championship Eastern Conference,218,15
+1305,United Soccer League Western Conference,218,14
+1306,United States Adult Soccer Association,218,4
+1307,Unterligen Mitte,13,1
+1308,Unterligen Nord B,13,2
+1309,Unterligen Ost,13,2
+1310,Unterligen Süd,13,1
+1311,Unterligen West,13,3
+1312,Uruguayana Segunda División Amateur,217,7
+1313,USL League One,218,12
+1314,USL League Two Deep South Division,218,5
+1315,USL League Two Great Lakes Division,218,9
+1316,USL League Two Heartland Division,218,5
+1317,USL League Two Metropolitan Division,218,5
+1318,USL League Two Mid Atlantic Division,218,7
+1319,USL League Two Mid South Division,218,8
+1320,USL League Two Mountain Division,218,3
+1321,USL League Two Northeast Division,218,6
+1322,USL League Two Northwest Division,218,3
+1323,USL League Two South Atlantic Division,218,7
+1324,USL League Two Southeast Division,218,5
+1325,Vanarama National League,62,23
+1326,Vanarama National League North,62,22
+1327,Vanarama National League South,62,21
+1328,Veikkausliiga,69,12
+1329,Victorian State League 1 North-West,12,5
+1330,Victorian State League 1 South-East,12,2
+1331,Victorian State League 2 North-West,12,3
+1332,Victorian State League 2 South-East,12,3
+1333,Victorian State League 3 North-West,12,1
+1334,Victorian State League 3 South-East,12,4
+1335,Victorian State League 4 - North,12,1
+1336,Victorian State League 4 - West,12,1
+1337,Victorian State League 5 - West,12,1
+1338,Vietnamese League Two - B,223,1
+1339,VivaFresh Liga e Parë - Grupi A,112,3
+1340,Vodacom Ligue 1,44,6
+1341,Vorarlberg-Liga,13,10
+1342,Vtora Profesionalna Liga,34,19
+1343,WaiBOP Premiership,155,7
+1344,Waterford & District Premier Division,96,5
+1345,WE Egyptian Premier League,61,18
+1346,Wessex League Premier Division,62,6
+1347,West of Scotland Conference A,175,9
+1348,West of Scotland Conference B,175,11
+1349,West of Scotland Conference C,175,10
+1350,West of Scotland Premier Division,175,20
+1351,Western Australia State League Division 1,12,3
+1352,Western Australia State League Division 2,12,1
+1353,Wexford Football League Premier Division,96,2
+1354,Wiener Stadtliga,13,9
+1355,Yemeni League,227,3
+1356,Ykkönen,69,12
+1357,Yunnan FA Super League,41,1
+1358,ZFF Lower Leagues,201,1
+1359,ZIFA Lower Leagues,229,1
+1360,Zonske lige Srbije,187,77
+1361,Zweite Liga Interregional Gruppe 1,192,14
+1362,Zweite Liga Interregional Gruppe 2,192,14
+1363,Zweite Liga Interregional Gruppe 3,192,14
+1364,Zweite Liga Interregional Gruppe 4,192,14
+1365,Zweite Liga Interregional Gruppe 5,192,14
+1366,Zweite Liga Interregional Gruppe 6,192,14

@@ -1,0 +1,231 @@
+﻿nation_id,nation_short,nation_full,nation_continent
+1,AFG,Afghanistan,Asia
+2,AIA,Anguilla,North America
+3,ALB,Albania,Europe
+4,ALG,Algeria,Africa
+5,AND,Andorra,Europe
+6,ANG,Angola,Africa
+7,ARG,Argentina,South America
+8,ARM,Armenia,Europe
+9,ARU,Aruba,North America
+10,ASA,American Samoa,Oceania
+11,ATG,Antigua & Barbuda,North America
+12,AUS,Australia,Asia
+13,AUT,Austria,Europe
+14,AZE,Azerbaijan,Europe
+15,BAH,Bahamas,North America
+16,BAN,Bangladesh,Asia
+17,BDI,Burundi,Africa
+18,BEL,Belgium,Europe
+19,BEN,Benin,Africa
+20,BER,Bermuda,North America
+21,BFA,Burkina Faso,Africa
+22,BHR,Bahrain,Asia
+23,BHU,Bhutan,Asia
+24,BIH,Bosnia & Herzegovina,Europe
+25,BLM,Saint Barthélemy,North America
+26,BLR,Belarus,Europe
+27,BLZ,Belize,North America
+28,BOE,Bonaire,South America
+29,BOL,Bolivia,South America
+30,BOT,Botswana,Africa
+31,BRA,Brazil,South America
+32,BRB,Barbados,North America
+33,BRU,Brunei Darussalam,Asia
+34,BUL,Bulgaria,Europe
+35,CAM,Cambodia,Asia
+36,CAN,Canada,North America
+37,CAY,Cayman Islands,North America
+38,CGO,Congo,Africa
+39,CHA,Chad,Africa
+40,CHI,Chile,South America
+41,CHN,China,Asia
+42,CIV,Ivory Coast,Africa
+43,CMR,Cameroon,Africa
+44,COD,Congo DR (Zaire),Africa
+45,COK,Cook Islands,Oceania
+46,COL,Colombia,South America
+47,COM,Comoros Islands,Africa
+48,CPV,Cape Verde Islands,Africa
+49,CRC,Costa Rica,North America
+50,CRO,Croatia,Europe
+51,CTA,Central African Republic,Africa
+52,CUB,Cuba,North America
+53,CUW,Curaçao,North America
+54,CYP,Cyprus,Europe
+55,CZE,Czech Republic,Europe
+56,DEN,Denmark,Europe
+57,DJI,Djibouti,Africa
+58,DMA,Dominica,North America
+59,DOM,Dominican Republic,North America
+60,ECU,Ecuador,South America
+61,EGY,Egypt,Africa
+62,ENG,England,Europe
+63,EQG,Equatorial Guinea,Africa
+64,ERI,Eritrea,Africa
+65,ESP,Spain,Europe
+66,EST,Estonia,Europe
+67,ETH,Ethiopia,Africa
+68,FIJ,Fiji,Oceania
+69,FIN,Finland,Europe
+70,FLK,Falkland Islands,South America
+71,FRA,France,Europe
+72,FRO,Faroe Islands,Europe
+73,FSM,Micronesia,Oceania
+74,GAB,Gabon,Africa
+75,GAM,Gambia,Africa
+76,GEO,Georgia,Europe
+77,GER,Germany,Europe
+78,GHA,Ghana,Africa
+79,GIB,Gibraltar,Europe
+80,GLP,Guadeloupe,North America
+81,GNB,Guinea-Bissau,Africa
+82,GRE,Greece,Europe
+83,GRN,Grenada,North America
+84,GUA,Guatemala,North America
+85,GUF,French Guiana,South America
+86,GUI,Guinea,Africa
+87,GUM,Guam,Asia
+88,HOLD2,HOLD,HOLD
+89,GUY,Guyana,South America
+90,HAI,Haiti,North America
+91,HKG,Hong Kong,Asia
+92,HON,Honduras,North America
+93,HUN,Hungary,Europe
+94,IDN,Indonesia,Asia
+95,IND,India,Asia
+96,IRL,Ireland,Europe
+97,IRN,Iran,Asia
+98,IRQ,Iraq,Asia
+99,ISL,Iceland,Europe
+100,ISR,Israel,Europe
+101,ITA,Italy,Europe
+102,JAM,Jamaica,North America
+103,JOR,Jordan,Asia
+104,JPN,Japan,Asia
+105,KAZ,Kazakhstan,Europe
+106,KEN,Kenya,Africa
+107,KGZ,Kyrgyzstan,Asia
+108,KIR,Kiribati,Oceania
+109,KOR,Korea Republic,Asia
+110,KSA,Saudi Arabia,Asia
+111,KUW,Kuwait,Asia
+112,KVX,Kosovo,Europe
+113,LAO,Laos,Asia
+114,LBR,Liberia,Africa
+115,LBY,Libya,Africa
+116,LCA,St Lucia,North America
+117,LES,Lesotho,Africa
+118,LIB,Lebanon,Asia
+119,LIE,Liechtenstein,Europe
+120,LTU,Lithuania,Europe
+121,LUX,Luxembourg,Europe
+122,LVA,Latvia,Europe
+123,MAC,Macao,Asia
+124,MAD,Madagascar,Africa
+125,MAR,Morocco,Africa
+126,MAS,Malaysia,Asia
+127,MAY,Mayotte,Africa
+128,MDA,Moldova,Europe
+129,MDV,Maldives,Asia
+130,MEX,Mexico,North America
+131,MGL,Mongolia,Asia
+132,MKD,North Macedonia,Europe
+133,MLI,Mali,Africa
+134,MLT,Malta,Europe
+135,MNE,Montenegro,Europe
+136,MON,Monaco,Europe
+137,MOZ,Mozambique,Africa
+138,MRI,Mauritius,Africa
+139,MSR,Montserrat,North America
+140,MTN,Mauritania,Africa
+141,MTQ,Martinique,North America
+142,MWI,Malawi,Africa
+143,MYA,Myanmar,Asia
+144,NAM,Namibia,Africa
+145,NCA,Nicaragua,North America
+146,NCL,New Caledonia,Oceania
+147,NED,Netherlands,Europe
+148,NEP,Nepal,Asia
+149,NGA,Nigeria,Africa
+150,NIG,Niger,Africa
+151,NIR,Northern Ireland,Europe
+152,NIU,Niue,Oceania
+153,NMI,Northern Mariana Islands,Oceania
+154,NOR,Norway,Europe
+155,NZL,New Zealand,Oceania
+156,OMA,Oman,Asia
+157,PAK,Pakistan,Asia
+158,PAN,Panama,North America
+159,PAR,Paraguay,South America
+160,PER,Peru,South America
+161,PHI,Philippines,Asia
+162,PLE,Palestine,Asia
+163,PNG,Papua New Guinea,Oceania
+164,POL,Poland,Europe
+165,POR,Portugal,Europe
+166,PRK,North Korea,Asia
+167,PUR,Puerto Rico,North America
+168,QAT,Qatar,Asia
+169,REU,Réunion,Africa
+170,ROU,Romania,Europe
+171,RSA,South Africa,Africa
+172,RUS,Russia,Europe
+173,RWA,Rwanda,Africa
+174,SAM,Samoa,Oceania
+175,SCO,Scotland,Europe
+176,SEN,Senegal,Africa
+177,SEY,Seychelles,Africa
+178,SIN,Singapore,Asia
+179,SKN,St Kitts & Nevis,North America
+180,SLE,Sierra Leone,Africa
+181,SLV,El Salvador,North America
+182,SMA,Sint Maarten,North America
+183,SMN,Saint Martin,North America
+184,SMR,San Marino,Europe
+185,SOL,Solomon Islands,Oceania
+186,SOM,Somalia,Africa
+187,SRB,Serbia,Europe
+188,SRI,Sri Lanka,Asia
+189,SSD,South Sudan,Africa
+190,STP,Sao Tome e Principe,Africa
+191,SUD,Sudan,Africa
+192,SUI,Switzerland,Europe
+193,HOLD1,HOLD,HOLD
+194,SUR,Suriname,South America
+195,SVK,Slovakia,Europe
+196,SVN,Slovenia,Europe
+197,SWE,Sweden,Europe
+198,SWZ,Swaziland,Africa
+199,SYR,Syria,Asia
+200,TAH,Tahiti,Oceania
+201,TAN,Tanzania,Africa
+202,TCA,Turks & Caicos Islands,North America
+203,TGA,Tonga,Oceania
+204,THA,Thailand,Asia
+205,TJK,Tajikistan,Asia
+206,TKM,Turkmenistan,Asia
+207,TLS,East Timor,Asia
+208,TOG,Togo,Africa
+209,TPE,Chinese Taipei,Asia
+210,TRI,Trinidad & Tobago,North America
+211,TUN,Tunisia,Africa
+212,TUR,Turkey,Europe
+213,TUV,Tuvalu,Oceania
+214,UAE,United Arab Emirates,Asia
+215,UGA,Uganda,Africa
+216,UKR,Ukraine,Europe
+217,URU,Uruguay,South America
+218,USA,United States of America,North America
+219,UZB,Uzbekistan,Asia
+220,VAN,Vanuatu,Oceania
+221,VEN,Venezuela,South America
+222,VGB,British Virgin Islands,North America
+223,VIE,Vietnam,Asia
+224,VIN,St Vincent & The Grenadines,North America
+225,VIR,United States Virgin Islands,North America
+226,WAL,Wales,Europe
+227,YEM,Yemen,Asia
+228,ZAM,Zambia,Africa
+229,ZIM,Zimbabwe,Africa
+999,UNK,Unknown,Unknown
